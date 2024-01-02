@@ -1,0 +1,36 @@
+/* General */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Element Class */
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+/* Style Class */
+/* Flex Box */
+.display-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.justify-content-evenly{
+    justify-content: space-evenly;
+}
+.align-items-center{
+    align-items: center;
+}
+/* Default text style */
+.default-text{
+    color: black;
+    text-decoration: none;
+}
+/* Animation */
+@keyframes identifier {
+    
+}
+/*  */
+
