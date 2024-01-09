@@ -32,6 +32,14 @@ main {
     text-align: center;
 }
 
+.text-align-right{
+    text-align: right;
+}
+
+.text-align-left{
+    text-align: left;
+}
+
 /* Flex Box */
 .display-flex {
     display: flex;
